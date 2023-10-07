@@ -1,11 +1,10 @@
-# kawushaer.github.io
 # 生物信息学实践（笔记）
 
 >### 学习和参考资料
 #### 主要教材：
   **PPT+ [ Bioinformatics Tutorial ]**(https://book.ncrnalab.org/teaching/)
 
- **参考书**
+ #### 参考书
  - 工具类
    《鸟哥的Linux私房菜－基础学习篇》
    《Quick R》online
