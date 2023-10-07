@@ -53,7 +53,7 @@
  >    logistics regression模型： 输入x是连续值，输出y为是or否（0 or 1）
  >    
  >**. tree model**
- > <img width="250" alt="屏幕截图 2023-10-06 185015" src="https://github.com/kwsekds/kawushaer.github.io/assets/146935401/a643d5fa-451a-4325-b7f3-24a37c5428e5">
+ <img width="250" alt="屏幕截图 2023-10-06 185015" src="https://github.com/kwsekds/kawushaer.github.io/assets/146935401/a643d5fa-451a-4325-b7f3-24a37c5428e5">
 
  
  >  生物学中常用模型，多个x，指定到多个y，精确度由x个数决定
